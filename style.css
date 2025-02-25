@@ -17,7 +17,8 @@ html {
   /* Typography End*/
 
   /* colors */
-  --primary-color: #FB6818;
+  /* --primary-color: #FB6818; */
+  --primary-color: navy;
   --secondary-color: #262626;
   --text-color: #ffffff;
   --tertiory-color: #000000;
